@@ -1,2 +1,5 @@
 # Git_Course
-for elzero school git course
+for elzero web school git course
+
+
+## project notes
